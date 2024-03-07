@@ -1,5 +1,5 @@
 /**
- * Requesitos? modif test 2024
+ * Requesitos? modif test 2024 v3
  *  - verificar cuales son los condimentos que tenemos
  *      - puede ser con pollo o carne
  *      - si no hay condimentos entonces podemos usar un cubo de caldo
