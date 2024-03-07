@@ -1,5 +1,5 @@
 /**
- * Requesitos?
+ * Requesitos? modif
  *  - verificar cuales son los condimentos que tenemos
  *      - puede ser con pollo o carne
  *      - si no hay condimentos entonces podemos usar un cubo de caldo
